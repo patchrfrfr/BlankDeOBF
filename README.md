@@ -4,11 +4,11 @@ A static analysis tool for deobfuscating Python code obfuscated with BlankOBF. T
 
 ## Features
 
-- ✅ **100% Static Analysis** - Never executes obfuscated code
-- ✅ **Layer Detection** - Automatically detects obfuscation layers
-- ✅ **Multi-Layer Decryption** - Handles multiple obfuscation layers
-- ✅ **Loader Analysis** - Analyzes the loader structure
-- ✅ **Safe** - No code execution, no risk
+- **100% Static Analysis** - Never executes obfuscated code
+- **Layer Detection** - Automatically detects obfuscation layers
+- **Multi-Layer Decryption** - Handles multiple obfuscation layers
+- **Loader Analysis** - Analyzes the loader structure
+- **Safe** - No code execution, no risk
 
 ## Obfuscation Layers Supported
 
